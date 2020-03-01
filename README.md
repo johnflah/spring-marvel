@@ -1,2 +1,1 @@
-initial commit
-testin
+This is a simple project to recreate a well known card game using a custom dynamic card deck. This is starting as a mvn quickstart java application and hopefully will progress to a spring based ewb app..
